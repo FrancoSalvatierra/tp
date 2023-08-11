@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0c9c9;
+}
+
+header {
+    background-color: #520000;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #520000;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.insertar{
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: #f0c9c9;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #520000;
+    color: white;
+    text-align: center;
+    padding:120px;
+
+}
